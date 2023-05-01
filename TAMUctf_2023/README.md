@@ -9,4 +9,4 @@ Texas A&M University CTF event.
 
 This CTF is geared more towards university and high school students, but anyone may compete!
 
-[Competition link](https://ctftime.org/event/1914)
+You can find all the challenges [here](https://github.com/tamuctf/tamuctf-2023.git)
