@@ -3,7 +3,7 @@
 ## Solved challenges
 ### Category: `pwn`
 ```python
-- turtle shell
-- monkey printer
-- tropic thunder
+- Turtle shell
+- Money printer
+- Tropic thunder
 ```
